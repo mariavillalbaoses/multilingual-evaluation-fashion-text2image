@@ -19,13 +19,11 @@ Each setting contains:
 
 ## 🔽 Download
 
-You can download the full dataset as a ZIP file here:
+You can download the dataset from the release section of this repository:You can download the dataset from the release section of this repository:
 
-👉 [**Download dataset**](https://github.com/mariavillalbaoses/NOMBRE-DEL-REPO/archive/refs/heads/main.zip)
+- [spanish_with_nationality.zip](https://github.com/mariavillalbaoses/multilingual-evaluation-fashion-text2image/releases/download/v1.0/spanish-with-nationality.zip)
+- [spanish_without_nationality.zip](https://github.com/mariavillalbaoses/multilingual-evaluation-fashion-text2image/releases/download/v1.0/spanish-without-nationality.zip)
+- [chinese_with_nationality.zip](https://github.com/mariavillalbaoses/multilingual-evaluation-fashion-text2image/releases/download/v1.0/chinese-with-nationality.zip)
+- [chinese_without_nationality.zip](https://github.com/mariavillalbaoses/multilingual-evaluation-fashion-text2image/releases/download/v1.0/chinese-without-nationality.zip)
 
-> 💡 Replace `NOMBRE-DEL-REPO` in the link above with your actual repo name.
-
----
-
-## 📁 Folder structure
 
