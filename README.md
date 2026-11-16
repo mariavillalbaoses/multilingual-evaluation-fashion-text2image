@@ -27,3 +27,8 @@ You can download the dataset from the release section of this repository:You can
 - [chinese_without_nationality.zip](https://github.com/mariavillalbaoses/multilingual-evaluation-fashion-text2image/releases/download/v1.0/chinese-without-nationality.zip)
 
 
+### Additional Robustness Analysis (Appendix C)
+
+The 36 images generated for the additional robustness analysis presented in Appendix C are available below. These images correspond to six gender-neutral Spanish prompts without nationality specification, with six generations per prompt.
+
+- [Download additional robustness analysis images](https://github.com/mariavillalbaoses/multilingual-evaluation-fashion-text2image/releases/download/v1.0/additional_robustness__analysis.zip)
